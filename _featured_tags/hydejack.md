@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hydejack
+title: Portfolio
 slug: hydejack
 menu: true
 order: 2
