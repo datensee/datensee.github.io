@@ -22,7 +22,7 @@ Discrete data: Integer type data are called discrete data and only the finite nu
 
 Example: Number of states in a country or Number of students in a course.
 
-Continues data: In contrast, continuous data can have an infinite number of values i.e continuous data can be divided and reduced to smaller parts.
+Continuous data: In contrast, continuous data can have an infinite number of values i.e continuous data can be divided and reduced to smaller parts.
 
 Example: The height of a person, which can range from anywhere as the possibility is infinite.
 
