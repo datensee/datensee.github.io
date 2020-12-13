@@ -1,5 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-12-13T00:12:18+01:00</updated><id>http://localhost:4000/</id><title type="html">Datensee</title><subtitle>We are an efficient team of developers pursuing Masters program in Germany.
-</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><entry><title type="html">Example content</title><link href="http://localhost:4000/2017/11/22/example-content/" rel="alternate" type="text/html" title="Example content" /><published>2017-11-22T00:00:00+01:00</published><updated>2017-11-22T00:00:00+01:00</updated><id>http://localhost:4000/2017/11/22/example-content</id><content type="html" xml:base="http://localhost:4000/2017/11/22/example-content/">&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-12-13T01:48:05+01:00</updated><id>http://localhost:4000/</id><title type="html">Datensee</title><subtitle>We are an efficient team of developers pursuing Masters program in Germany.
+</subtitle><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><entry><title type="html">All about data</title><link href="http://localhost:4000/2020/12/13/All-about-data/" rel="alternate" type="text/html" title="All about data" /><published>2020-12-13T00:00:00+01:00</published><updated>2020-12-13T00:00:00+01:00</updated><id>http://localhost:4000/2020/12/13/All-about-data</id><content type="html" xml:base="http://localhost:4000/2020/12/13/All-about-data/">&lt;p&gt;Everything around us that we can observe and collect can be considered as data, in today’s world, we are practically drowning in the vast ocean of data which is expanding at a rate of 61 percent per year. Traditionally speaking, data is a collection of facts and statistics for analysis. In simpler words, data can be facts, text, pictures, sound, images, numbers, values that are yet to be processed and interpreted.&lt;/p&gt;
+
+&lt;p&gt;For a basic understanding, we can say there are two categories of data: &lt;strong&gt;&lt;em&gt;Quantitative data&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;qualitative data&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Qualitative data&lt;/strong&gt; are non-numeric data and cannot be easily measured therefore, it can also be called categorical data since Qualitative data is based on characteristics and properties such as color, taste, odor, shape, and so on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quantitative data&lt;/strong&gt; are data that can be measured such as area, length, prices, volume, etc. Such data are numeric and can be validated as well as verified which makes it appropriate for data analysis, mathematic, calculation, and experiments. Quantitative data is further divided into two subcategories: discrete data and continuous data.&lt;/p&gt;
+
+&lt;p&gt;Discrete data: Integer type data are called discrete data and only the finite number of values is possible for discrete data. In short, discrete data are data that can be counted.&lt;/p&gt;
+
+&lt;p&gt;Example: Number of states in a country or Number of students in a course.&lt;/p&gt;
+
+&lt;p&gt;Continues data: In contrast, continuous data can have an infinite number of values i.e continuous data can be divided and reduced to smaller parts.&lt;/p&gt;
+
+&lt;p&gt;Example: The height of a person, which can range from anywhere as the possibility is infinite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/all_about_data_1.jpg&quot; alt=&quot;Flowchart for types of data&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, this classification is only at a higher level since how the data are categorized start differing when the field of studies changes. In reality, types of data vary with the purpose and which ultimately leads to numerous kinds of data to deal with.&lt;/p&gt;
+
+&lt;p&gt;In statistics, Data is said to be divided into numerical(continuous and discrete), categorical(qualitative data), and ordinal (a mixture of numerical and categorical data) In ordinal data, data can be categorized with a set of order and scale. A perfect example of ordinal data can be our grade system where getting 1 is the highest and getting 4 is the lowest.&lt;/p&gt;
+
+&lt;p&gt;In addition to the data type already discussed here, Machine learning also deals with Time series data and Text.&lt;/p&gt;
+
+&lt;p&gt;Time series data is the data that has been collected at regular intervals over some period of time. Time series data is useful in identifying trends and tracking change over time. Weather records, patients’ health monitoring records, and the stock market are the most common time-series data we can easily understand and relate to&lt;/p&gt;
+
+&lt;p&gt;Lastly, Text is just the collection of words such as new articles, books, papers that we read in our day to day lives.&lt;/p&gt;
+
+&lt;h4 id=&quot;so-where-does-the-data-such-as-sound-image-texts-video-fall-under&quot;&gt;So where does the data such as sound, image, texts, video fall under?&lt;/h4&gt;
+
+&lt;p&gt;While the qualitative and quantitative data can also be called structured data as they can be organized in a tabular form or in spreadsheets, managed in a database in a format that makes it easier to be fetched by querying, every other data that can be a bit difficult to organized are termed unstructured data.&lt;/p&gt;
+
+&lt;p&gt;Unstructured data includes text files, emails, media, websites, scientific data, sensory data, and almost everything excluding structured data. Unstructured data occupies  80% of total data making it crucial for us to find an appropriate tool to analyze such data to find a valuable trend and pattern from them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/all_about_data_2.jpg&quot; alt=&quot;Categorization of data&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;why-is-it-necessary-to-understand-the-type-of-data&quot;&gt;Why is It necessary to understand the type of data?&lt;/h4&gt;
+
+&lt;p&gt;Understanding the type of data is very crucial for data analysis as well in the field of machine learning because everything else depends on what type of data you are dealing with. Topics like which method to use to analyze the data and how to visualize the result also depend on what type of data we have in our hand as well as to efficiently store our data in our database.&lt;/p&gt;
+
+&lt;p&gt;For example, there is a big difference in how structured data and unstructured data are to be stored in the database. Tools to analyze structured and unstructured data also differ vastly therefore, after the data are collected the first job analyst do is to try and understand their data so that they can decide the appropriate tools and methods they can use as they move forward.&lt;/p&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">Everything around us that we can observe and collect can be considered as data, in today’s world, we are practically drowning in the vast ocean of data which is expanding at a rate of 61 percent per year. Traditionally speaking, data is a collection of facts and statistics for analysis. In simpler words, data can be facts, text, pictures, sound, images, numbers, values that are yet to be processed and interpreted.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/caleb-george.jpg" /></entry><entry><title type="html">Hydejack’s New Design</title><link href="http://localhost:4000/2017/11/23/hydejacks-new-design/" rel="alternate" type="text/html" title="Hydejack's New Design" /><published>2017-11-23T00:00:00+01:00</published><updated>2017-11-23T00:00:00+01:00</updated><id>http://localhost:4000/2017/11/23/hydejacks-new-design</id><content type="html" xml:base="http://localhost:4000/2017/11/23/hydejacks-new-design/">&lt;p&gt;While v7 brings an &lt;a href=&quot;/CHANGELOG/#v700&quot;&gt;insane amount of new stuff&lt;/a&gt;, the most notable change is the new background image.
+It is no longer &lt;em&gt;anti-selling&lt;/em&gt; the theme.
+The old image was a blurred version of Napoleon Bonaparte, which was just… weird. I could tell the story of how this came to be,
+but I’d rather show you the new and improved background image.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-background-image&quot;&gt;New background image&lt;/h2&gt;
+&lt;p&gt;Yes, it’s an aerial shot of a beach (&lt;a href=&quot;https://duckduckgo.com/?q=ios+11+background&amp;amp;t=ffab&amp;amp;iax=images&amp;amp;ia=images&quot;&gt;so hot right now&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/caleb-george.jpg&quot; alt=&quot;Hydejack's background image&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Q: What has this picture to do with Hydejack?
+Nothing really, I just like how it looks.
+However: Boat → Pirates → Hijacking → Hydejack (illuminati confirmed)&lt;/p&gt;
+
+&lt;p&gt;Even though it is a free image from &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt; (…), it’s unique in the sense that
+I’ve modified it so it looks better inside the sidebar.
+Specifically, I’ve straightened out the beach and rotated the boat so that it sits at a nice 90 degree angle.&lt;/p&gt;
+
+&lt;p&gt;For comparison, here is the non-euclidean mess the &lt;a href=&quot;https://unsplash.com/photos/AtvuPUenaeI&quot;&gt;original photo&lt;/a&gt; was. Pretty OCD, I know.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/caleb-george-old.jpg&quot; alt=&quot;Original photo&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;new-color-palette&quot;&gt;New color palette&lt;/h2&gt;
+&lt;p&gt;I’ve extracted the major colors from the background image, which now form Hydejack’s color palette:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/COLOURlovers.com-Hydejack.png&quot; alt=&quot;Hydejacks's color palette&quot; style=&quot;border: 1px solid #ddd&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;new-logo&quot;&gt;New logo&lt;/h2&gt;
+&lt;p&gt;Hydejack also has a new logo, which is based on the new color palette.
+It also features the best font on Google Fonts, and probably the world: &lt;a href=&quot;https://fonts.google.com/specimen/Roboto+Slab&quot;&gt;Roboto Slab&lt;/a&gt;
+(which is to say, I like it a lot).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/icons/icon.png&quot; alt=&quot;Hydejack's logo&quot; /&gt;&lt;/p&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">While v7 brings an insane amount of new stuff, the most notable change is the new background image. It is no longer anti-selling the theme. The old image was a blurred version of Napoleon Bonaparte, which was just… weird. I could tell the story of how this came to be, but I’d rather show you the new and improved background image.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/caleb-george.jpg" /></entry><entry><title type="html">Example content</title><link href="http://localhost:4000/2017/11/22/example-content/" rel="alternate" type="text/html" title="Example content" /><published>2017-11-22T00:00:00+01:00</published><updated>2017-11-22T00:00:00+01:00</updated><id>http://localhost:4000/2017/11/22/example-content</id><content type="html" xml:base="http://localhost:4000/2017/11/22/example-content/">&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;another-page&quot;&gt;Link to another page&lt;/a&gt;.&lt;/p&gt;
 
@@ -698,39 +770,7 @@ so that your posts remain compatible with other Jekyll themes.&lt;/p&gt;
                  \vdots \\
                  y_n
                \end{array}\right)
-\end{aligned} %]]&gt;&lt;/script&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">Text can be bold, italic, or strikethrough.</summary></entry><entry><title type="html">Hydejack’s New Design</title><link href="http://localhost:4000/2017/11/17/hydejacks-new-design/" rel="alternate" type="text/html" title="Hydejack's New Design" /><published>2017-11-17T00:00:00+01:00</published><updated>2017-11-17T00:00:00+01:00</updated><id>http://localhost:4000/2017/11/17/hydejacks-new-design</id><content type="html" xml:base="http://localhost:4000/2017/11/17/hydejacks-new-design/">&lt;p&gt;While v7 brings an &lt;a href=&quot;/CHANGELOG/#v700&quot;&gt;insane amount of new stuff&lt;/a&gt;, the most notable change is the new background image.
-It is no longer &lt;em&gt;anti-selling&lt;/em&gt; the theme.
-The old image was a blurred version of Napoleon Bonaparte, which was just… weird. I could tell the story of how this came to be,
-but I’d rather show you the new and improved background image.&lt;/p&gt;
-
-&lt;h2 id=&quot;new-background-image&quot;&gt;New background image&lt;/h2&gt;
-&lt;p&gt;Yes, it’s an aerial shot of a beach (&lt;a href=&quot;https://duckduckgo.com/?q=ios+11+background&amp;amp;t=ffab&amp;amp;iax=images&amp;amp;ia=images&quot;&gt;so hot right now&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/caleb-george.jpg&quot; alt=&quot;Hydejack's background image&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Q: What has this picture to do with Hydejack?
-Nothing really, I just like how it looks.
-However: Boat → Pirates → Hijacking → Hydejack (illuminati confirmed)&lt;/p&gt;
-
-&lt;p&gt;Even though it is a free image from &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt; (…), it’s unique in the sense that
-I’ve modified it so it looks better inside the sidebar.
-Specifically, I’ve straightened out the beach and rotated the boat so that it sits at a nice 90 degree angle.&lt;/p&gt;
-
-&lt;p&gt;For comparison, here is the non-euclidean mess the &lt;a href=&quot;https://unsplash.com/photos/AtvuPUenaeI&quot;&gt;original photo&lt;/a&gt; was. Pretty OCD, I know.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/caleb-george-old.jpg&quot; alt=&quot;Original photo&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;new-color-palette&quot;&gt;New color palette&lt;/h2&gt;
-&lt;p&gt;I’ve extracted the major colors from the background image, which now form Hydejack’s color palette:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/COLOURlovers.com-Hydejack.png&quot; alt=&quot;Hydejacks's color palette&quot; style=&quot;border: 1px solid #ddd&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;new-logo&quot;&gt;New logo&lt;/h2&gt;
-&lt;p&gt;Hydejack also has a new logo, which is based on the new color palette.
-It also features the best font on Google Fonts, and probably the world: &lt;a href=&quot;https://fonts.google.com/specimen/Roboto+Slab&quot;&gt;Roboto Slab&lt;/a&gt;
-(which is to say, I like it a lot).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/icons/icon.png&quot; alt=&quot;Hydejack's logo&quot; /&gt;&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">While v7 brings an insane amount of new stuff, the most notable change is the new background image. It is no longer anti-selling the theme. The old image was a blurred version of Napoleon Bonaparte, which was just… weird. I could tell the story of how this came to be, but I’d rather show you the new and improved background image.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/caleb-george.jpg" /></entry><entry><title type="html">Better Gem Support (v6.5)</title><link href="http://localhost:4000/2017/07/27/better-gem-support/" rel="alternate" type="text/html" title="Better Gem Support (v6.5)" /><published>2017-07-27T00:00:00+02:00</published><updated>2017-07-27T00:00:00+02:00</updated><id>http://localhost:4000/2017/07/27/better-gem-support</id><content type="html" xml:base="http://localhost:4000/2017/07/27/better-gem-support/">&lt;p&gt;This maintenance release includes various quality-of-life improvements,
+\end{aligned} %]]&gt;&lt;/script&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">Text can be bold, italic, or strikethrough.</summary></entry><entry><title type="html">Better Gem Support (v6.5)</title><link href="http://localhost:4000/2017/07/27/better-gem-support/" rel="alternate" type="text/html" title="Better Gem Support (v6.5)" /><published>2017-07-27T00:00:00+02:00</published><updated>2017-07-27T00:00:00+02:00</updated><id>http://localhost:4000/2017/07/27/better-gem-support</id><content type="html" xml:base="http://localhost:4000/2017/07/27/better-gem-support/">&lt;p&gt;This maintenance release includes various quality-of-life improvements,
 especially when using the gem-based version of the theme.
 These changes come in handy when using Hydejack for a quick (project-) page:
 The &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; layout, which is used when using &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;,
@@ -838,7 +878,7 @@ If you have a &lt;code class=&quot;highlighter-rouge&quot;&gt;font&lt;/code&gt; 
 &lt;p&gt;To remove the border radius, open (or create) &lt;code class=&quot;highlighter-rouge&quot;&gt;_sass/my-inline.scss&lt;/code&gt; and add the following:&lt;/p&gt;
 
 &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.card&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.pagination-item&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;border-radius&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;!important&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">This maintenance release includes various quality-of-life improvements, especially when using the gem-based version of the theme. These changes come in handy when using Hydejack for a quick (project-) page: The home layout, which is used when using jekyll new, is now a proper layout that displays a few posts/pages below the regular content, and it is again possible to define an author in _config.yml without setting up a _data directory (for more, see blow).</summary></entry><entry><title type="html">Related Projects and Data Tables (v6.4)</title><link href="http://localhost:4000/2017/06/21/related-projects-and-data-tables/" rel="alternate" type="text/html" title="Related Projects and Data Tables (v6.4)" /><published>2017-06-21T00:00:00+02:00</published><updated>2017-06-21T00:00:00+02:00</updated><id>http://localhost:4000/2017/06/21/related-projects-and-data-tables</id><content type="html" xml:base="http://localhost:4000/2017/06/21/related-projects-and-data-tables/">&lt;p&gt;In this release I’ve added a “Other Projects” section to the bottom of each project page,
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">This maintenance release includes various quality-of-life improvements, especially when using the gem-based version of the theme. These changes come in handy when using Hydejack for a quick (project-) page: The home layout, which is used when using jekyll new, is now a proper layout that displays a few posts/pages below the regular content, and it is again possible to define an author in _config.yml without setting up a _data directory (for more, see blow).</summary></entry><entry><title type="html">Related Projects and Data Tables (v6.4)</title><link href="http://localhost:4000/2017/06/21/related-projects-and-data-tables/" rel="alternate" type="text/html" title="Related Projects and Data Tables (v6.4)" /><published>2017-06-21T00:00:00+02:00</published><updated>2017-06-21T00:00:00+02:00</updated><id>http://localhost:4000/2017/06/21/related-projects-and-data-tables</id><content type="html" xml:base="http://localhost:4000/2017/06/21/related-projects-and-data-tables/">&lt;p&gt;In this release I’ve added a “Other Projects” section to the bottom of each project page,
 making it easier for users to navigate through your collection and discover other projects.
 Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).&lt;/p&gt;
 
@@ -923,7 +963,7 @@ Compression
   &lt;li&gt;Fixed bug that caused layout to break in IE11.&lt;/li&gt;
   &lt;li&gt;Fixed bug that caused the project animation to “jump” when using long project titles.&lt;/li&gt;
   &lt;li&gt;No more empty attributes on &lt;code class=&quot;highlighter-rouge&quot;&gt;img&lt;/code&gt; tags.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">In this release I’ve added a “Other Projects” section to the bottom of each project page, making it easier for users to navigate through your collection and discover other projects. Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).</summary></entry><entry><title type="html">Third Party Scripts (v6.3)</title><link href="http://localhost:4000/2017/06/06/third-party-scripts/" rel="alternate" type="text/html" title="Third Party Scripts (v6.3)" /><published>2017-06-06T00:00:00+02:00</published><updated>2017-06-06T00:00:00+02:00</updated><id>http://localhost:4000/2017/06/06/third-party-scripts</id><content type="html" xml:base="http://localhost:4000/2017/06/06/third-party-scripts/">&lt;p&gt;This release makes including third party plugins easier.
+&lt;/ul&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">In this release I’ve added a “Other Projects” section to the bottom of each project page, making it easier for users to navigate through your collection and discover other projects. Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).</summary></entry><entry><title type="html">Third Party Scripts (v6.3)</title><link href="http://localhost:4000/2017/06/06/third-party-scripts/" rel="alternate" type="text/html" title="Third Party Scripts (v6.3)" /><published>2017-06-06T00:00:00+02:00</published><updated>2017-06-06T00:00:00+02:00</updated><id>http://localhost:4000/2017/06/06/third-party-scripts</id><content type="html" xml:base="http://localhost:4000/2017/06/06/third-party-scripts/">&lt;p&gt;This release makes including third party plugins easier.
 Until now, the push state approach to loading new pages has been interfering with embedded &lt;code class=&quot;highlighter-rouge&quot;&gt;script&lt;/code&gt; tags.
 This version changes this by simulating the sequential loading of script tags on a fresh page load.&lt;/p&gt;
 
@@ -992,7 +1032,7 @@ Maybe you won’t even notice the difference.&lt;/p&gt;
 &lt;h3 id=&quot;fixes&quot;&gt;Fixes&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Fix default color in gem-based theme&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">This release makes including third party plugins easier. Until now, the push state approach to loading new pages has been interfering with embedded script tags. This version changes this by simulating the sequential loading of script tags on a fresh page load.</summary></entry><entry><title type="html">JavaScripten (v6)</title><link href="http://localhost:4000/2017/05/03/javascripten/" rel="alternate" type="text/html" title="JavaScripten (v6)" /><published>2017-05-03T00:00:00+02:00</published><updated>2017-05-03T00:00:00+02:00</updated><id>http://localhost:4000/2017/05/03/javascripten</id><content type="html" xml:base="http://localhost:4000/2017/05/03/javascripten/">&lt;p&gt;Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly.
+&lt;/ul&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">This release makes including third party plugins easier. Until now, the push state approach to loading new pages has been interfering with embedded script tags. This version changes this by simulating the sequential loading of script tags on a fresh page load.</summary></entry><entry><title type="html">JavaScripten (v6)</title><link href="http://localhost:4000/2017/05/03/javascripten/" rel="alternate" type="text/html" title="JavaScripten (v6)" /><published>2017-05-03T00:00:00+02:00</published><updated>2017-05-03T00:00:00+02:00</updated><id>http://localhost:4000/2017/05/03/javascripten</id><content type="html" xml:base="http://localhost:4000/2017/05/03/javascripten/">&lt;p&gt;Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly.
 This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.&lt;/p&gt;
 
 &lt;h2 id=&quot;major&quot;&gt;Major&lt;/h2&gt;
@@ -1050,7 +1090,7 @@ distinguish from regular text).&lt;/li&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases/tag/v7.5.2&quot;&gt;Get &lt;em&gt;JavaScripten&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly. This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.</summary></entry><entry><title type="html">The Fast One (v5)</title><link href="http://localhost:4000/2016/09/17/the-fast-one/" rel="alternate" type="text/html" title="The Fast One (v5)" /><published>2016-09-17T00:00:00+02:00</published><updated>2016-09-17T00:00:00+02:00</updated><id>http://localhost:4000/2016/09/17/the-fast-one</id><content type="html" xml:base="http://localhost:4000/2016/09/17/the-fast-one/">&lt;p&gt;This major release increases page load speed dramatically.
+&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases/tag/v7.5.2&quot;&gt;Get &lt;em&gt;JavaScripten&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly. This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.</summary></entry><entry><title type="html">The Fast One (v5)</title><link href="http://localhost:4000/2016/09/17/the-fast-one/" rel="alternate" type="text/html" title="The Fast One (v5)" /><published>2016-09-17T00:00:00+02:00</published><updated>2016-09-17T00:00:00+02:00</updated><id>http://localhost:4000/2016/09/17/the-fast-one</id><content type="html" xml:base="http://localhost:4000/2016/09/17/the-fast-one/">&lt;p&gt;This major release increases page load speed dramatically.
 The page now scores roughly 90/100 on &lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fqwtel.com%2Fhydejack%2F&quot;&gt;Google’s PageSpeed Insights&lt;/a&gt; (up from ~50) and
 has a high score on similar tools.&lt;/p&gt;
 
@@ -1091,7 +1131,7 @@ help with loading speed as well (burred images get compressed by JPG much better
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases&quot;&gt;Get &lt;em&gt;The Fast One&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">This major release increases page load speed dramatically. The page now scores roughly 90/100 on Google’s PageSpeed Insights (up from ~50) and has a high score on similar tools.</summary></entry><entry><title type="html">Social Media Impocalypse (v4)</title><link href="http://localhost:4000/2016/08/30/social-media-impocalypse/" rel="alternate" type="text/html" title="Social Media Impocalypse (v4)" /><published>2016-08-30T00:00:00+02:00</published><updated>2016-08-30T00:00:00+02:00</updated><id>http://localhost:4000/2016/08/30/social-media-impocalypse</id><content type="html" xml:base="http://localhost:4000/2016/08/30/social-media-impocalypse/">&lt;h2 id=&quot;breaking&quot;&gt;Breaking&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases&quot;&gt;Get &lt;em&gt;The Fast One&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">This major release increases page load speed dramatically. The page now scores roughly 90/100 on Google’s PageSpeed Insights (up from ~50) and has a high score on similar tools.</summary></entry><entry><title type="html">Social Media Impocalypse (v4)</title><link href="http://localhost:4000/2016/08/30/social-media-impocalypse/" rel="alternate" type="text/html" title="Social Media Impocalypse (v4)" /><published>2016-08-30T00:00:00+02:00</published><updated>2016-08-30T00:00:00+02:00</updated><id>http://localhost:4000/2016/08/30/social-media-impocalypse</id><content type="html" xml:base="http://localhost:4000/2016/08/30/social-media-impocalypse/">&lt;h2 id=&quot;breaking&quot;&gt;Breaking&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Structure of &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; has changed
     &lt;ul&gt;
@@ -1134,7 +1174,7 @@ to contain the unmodified markdown).&lt;/li&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases&quot;&gt;Get &lt;em&gt;Social Media Impocalypse&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">Breaking Structure of _config.yml has changed Social media usernames are now located under author: social: &amp;lt;platform&amp;gt;: &amp;lt;username&amp;gt;. disqus is now a top-level entry (moved from author). Now has font, font_accent and google_fonts fields that are mandatory. Now defaults to the blog layout, old style is available via blog-by-tag layout, see archive.html.</summary></entry><entry><title type="html">Introducing Hydejack (v3)</title><link href="http://localhost:4000/2016/03/08/introducing-hydejack/" rel="alternate" type="text/html" title="Introducing Hydejack (v3)" /><published>2016-03-08T00:00:00+01:00</published><updated>2016-03-08T00:00:00+01:00</updated><id>http://localhost:4000/2016/03/08/introducing-hydejack</id><content type="html" xml:base="http://localhost:4000/2016/03/08/introducing-hydejack/">&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases&quot;&gt;Get &lt;em&gt;Social Media Impocalypse&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">Breaking Structure of _config.yml has changed Social media usernames are now located under author: social: &amp;lt;platform&amp;gt;: &amp;lt;username&amp;gt;. disqus is now a top-level entry (moved from author). Now has font, font_accent and google_fonts fields that are mandatory. Now defaults to the blog layout, old style is available via blog-by-tag layout, see archive.html.</summary></entry><entry><title type="html">Introducing Hydejack (v3)</title><link href="http://localhost:4000/2016/03/08/introducing-hydejack/" rel="alternate" type="text/html" title="Introducing Hydejack (v3)" /><published>2016-03-08T00:00:00+01:00</published><updated>2016-03-08T00:00:00+01:00</updated><id>http://localhost:4000/2016/03/08/introducing-hydejack</id><content type="html" xml:base="http://localhost:4000/2016/03/08/introducing-hydejack/">&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
 &lt;p&gt;Unlike Hyde, it’s very opinionated about how you are going to use it.&lt;/p&gt;
 
 &lt;p&gt;Features include:&lt;/p&gt;
@@ -1233,42 +1273,4 @@ They will appear in the listed order.&lt;/p&gt;
     &lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;sidebar_tags&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;mytag&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;othertag&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">Features Unlike Hyde, it’s very opinionated about how you are going to use it. Features include: Touch-enabled sidebar / drawer for mobile, including fallback when JS is disabled. Github Pages compatible tag support based on this post. Customizable link color and sidebar image, per-site, per-tag and per-post. Optional author section at the bottom of each post. Optional comment section powered by Disqus. Layout for posts grouped by year Wide array of social media icons on sidebar. Math blocks via KaTeX.</summary></entry><entry><title type="html">Introducing Hyde</title><link href="http://localhost:4000/2013/12/28/introducing-hyde/" rel="alternate" type="text/html" title="Introducing Hyde" /><published>2013-12-28T00:00:00+01:00</published><updated>2013-12-28T00:00:00+01:00</updated><id>http://localhost:4000/2013/12/28/introducing-hyde</id><content type="html" xml:base="http://localhost:4000/2013/12/28/introducing-hyde/">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
-
-&lt;p class=&quot;message&quot;&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: This post is outdated and only included for legacy reasons.
-See the &lt;a href=&quot;/docs/7.5.2/&quot;&gt;Documentation&lt;/a&gt; for up-to-date instructions.&lt;/p&gt;
-
-&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
-
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Hyde here) includes the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/feed.xml&quot; class=&quot;external&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about/&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;hyde-features&quot;&gt;Hyde features&lt;/h3&gt;
-
-&lt;p&gt;In addition to the features of Poole, Hyde adds the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;</content><author><name>&lt;firtname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hyde" /><summary type="html">Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content. It’s based on Poole, the Jekyll butler.</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><category term="hydejack" /><summary type="html">Features Unlike Hyde, it’s very opinionated about how you are going to use it. Features include: Touch-enabled sidebar / drawer for mobile, including fallback when JS is disabled. Github Pages compatible tag support based on this post. Customizable link color and sidebar image, per-site, per-tag and per-post. Optional author section at the bottom of each post. Optional comment section powered by Disqus. Layout for posts grouped by year Wide array of social media icons on sidebar. Math blocks via KaTeX.</summary></entry></feed>

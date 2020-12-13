@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Blog
+title: Portfolio
 slug: hyde
 menu: true
 order: 1
