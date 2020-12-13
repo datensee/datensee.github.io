@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-12-13T01:58:50+01:00</updated><id>http://localhost:4000/</id><title type="html">Datensee</title><subtitle>We are an efficient team of developers pursuing Masters program in Germany.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-12-13T02:04:52+01:00</updated><id>http://localhost:4000/</id><title type="html">Datensee</title><subtitle>We are an efficient team of developers pursuing Masters program in Germany.
 </subtitle><author><name>&lt;Sitashma&gt; &lt;Rajbhandari&gt;</name><email>&lt;datensee.contact@gmail.com&gt;</email></author><entry><title type="html">All about data</title><link href="http://localhost:4000/2020/12/13/All-about-data/" rel="alternate" type="text/html" title="All about data" /><published>2020-12-13T00:00:00+01:00</published><updated>2020-12-13T00:00:00+01:00</updated><id>http://localhost:4000/2020/12/13/All-about-data</id><content type="html" xml:base="http://localhost:4000/2020/12/13/All-about-data/">&lt;p&gt;Everything around us that we can observe and collect can be considered as data, in today’s world, we are practically drowning in the vast ocean of data which is expanding at a rate of 61 percent per year. Traditionally speaking, data is a collection of facts and statistics for analysis. In simpler words, data can be facts, text, pictures, sound, images, numbers, values that are yet to be processed and interpreted.&lt;/p&gt;
 
 &lt;p&gt;For a basic understanding, we can say there are two categories of data: &lt;strong&gt;&lt;em&gt;Quantitative data&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;qualitative data&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
@@ -11,7 +11,7 @@
 
 &lt;p&gt;Example: Number of states in a country or Number of students in a course.&lt;/p&gt;
 
-&lt;p&gt;Continues data: In contrast, continuous data can have an infinite number of values i.e continuous data can be divided and reduced to smaller parts.&lt;/p&gt;
+&lt;p&gt;Continuous data: In contrast, continuous data can have an infinite number of values i.e continuous data can be divided and reduced to smaller parts.&lt;/p&gt;
 
 &lt;p&gt;Example: The height of a person, which can range from anywhere as the possibility is infinite.&lt;/p&gt;
 
