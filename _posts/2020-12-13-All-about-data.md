@@ -14,9 +14,9 @@ Everything around us that we can observe and collect can be considered as data, 
 For a basic understanding, we can say there are two categories of data: **_Quantitative data_** and **_qualitative data_**.
 
 
-**Qualitative data** are non-numeric data and cannot be easily measured therefore, it can also be called categorical data since Qualitative data is based on characteristics and properties such as color, taste, odor, shape, and so on.
+* **Qualitative data** are non-numeric data and cannot be easily measured therefore, it can also be called categorical data since Qualitative data is based on characteristics and properties such as color, taste, odor, shape, and so on.
 
-**Quantitative data** are data that can be measured such as area, length, prices, volume, etc. Such data are numeric and can be validated as well as verified which makes it appropriate for data analysis, mathematic, calculation, and experiments. Quantitative data is further divided into two subcategories: discrete data and continuous data. 
+* **Quantitative data** are data that can be measured such as area, length, prices, volume, etc. Such data are numeric and can be validated as well as verified which makes it appropriate for data analysis, mathematic, calculation, and experiments. Quantitative data is further divided into two subcategories: discrete data and continuous data. 
 
 Discrete data: Integer type data are called discrete data and only the finite number of values is possible for discrete data. In short, discrete data are data that can be counted.
 
