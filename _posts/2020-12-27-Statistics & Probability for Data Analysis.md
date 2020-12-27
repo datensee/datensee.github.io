@@ -13,7 +13,8 @@ redirect_from: /2017/11/23/whats-new-in-v7/
 **Information** is intrinsic to every matter and process in this universe.Everything receives &/or emits information, explicitly &/or implicitly. And as a species with a strong sense for pattern recognition, we have been using statistics since long before we knew how to communicate (through a well defined language), to identify patterns and infer knowledge. The process is quite inherent to us, given the fact that we have, since the start of civilizations, started to incorporate mathematical models to understand and improve our data analysis methods.
 
 ## Meaning
-“Information based on a study of the number of something happens or is present, or other numerical facts”
+**“Information based on a study of the number of something happens or is present, or other numerical facts”**
+
 *source : “Statistics”, Cambridge Dictionary, https://dictionary.cambridge.org/dictionary/english/statistic*
 
 Well, we can see the main focus is on numbers or the word “numerical”. But is there no way that data can exist without numbers? 
