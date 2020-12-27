@@ -14,7 +14,7 @@ redirect_from: /2017/11/23/whats-new-in-v7/
 
 ## Meaning
 “Information based on a study of the number of something happens or is present, or other numerical facts”
-source : “Statistics”, Cambridge Dictionary, https://dictionary.cambridge.org/dictionary/english/statistic
+*source : “Statistics”, Cambridge Dictionary, https://dictionary.cambridge.org/dictionary/english/statistic*
 
 Well, we can see the main focus is on numbers or the word “numerical”. But is there no way that data can exist without numbers? 
 Of course it can. Gender of a person can be male or female, that does not require numbers to comprehend but when we are trying to store, analyse & visualize our data on our electronic machines which can be only communicated to using numbers & it requires a precise clarity on the on the the numeric types of data that are possible to work with.
