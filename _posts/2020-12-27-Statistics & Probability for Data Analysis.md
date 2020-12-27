@@ -27,6 +27,8 @@ The first known application of a statistical method was pioneered by **John Grau
 * 13,000 funerals per (1)year &
 * 3 deaths per 11 families per (1)year
 * Average family size was 8
+
+
 It was estimated by their model that the population of London was around **384,000**.
 
 _source : “History of Statistics”, Wikipedia, https://en.wikipedia.org/wiki/History_of_statistics_
