@@ -35,7 +35,8 @@ _source : “History of Statistics”, Wikipedia, https://en.wikipedia.org/wiki/
 
 ### How was this estimation possible?
 
-Let us assume that for every death, a funeral took place so that,
+Let us assume that for every death, a funeral took place so that
+
 Number of deaths = Number of Funerals
 
 Then if,
