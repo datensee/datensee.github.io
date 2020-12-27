@@ -2,7 +2,7 @@
 layout: post
 title: Statistics & Probability for Data Analysis
 description: >
-  This post introduces about all types of data.
+  Get to know the first steps to understand Statistics & its importance in Data Analysis
 image: /assets/img/caleb-george.jpg
 hide_image: true
 tags: [hydejack]
