@@ -22,16 +22,19 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Datensee
+title:                 Daten See
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  We are an efficient team of developers pursuing Masters program in Germany.
+  Our species has been swimming in a vast ocean of digital data for a while now, often not speculating the immensity and its impacts.
+  A lot of possibillities have emerged which we have all been diving in, collectively, everyday, without even realising sometimes. 
+  Daten See is a minute approach to provide the general mass an opportunity to apprehend the depth of the Digital Age, which accelerates 
+  exponentially with each passing day. 
 
 # A shorter description for the sidebar.
 tagline:               >
-  We are an efficient team of developers pursuing Masters program in Germany.
+  Data data everywhere, not a byte to spare
 
 # A list of keywords for your blog
 keywords:              []
